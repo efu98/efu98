@@ -1,10 +1,11 @@
 ### About Me
 
-🔭 Currently a telecommunication engineering student at INSA Lyon and web dev at EnVi Media  
-🌱 Learning C++  
-💗 Passionate with problem solving  
-👐 Would love to collaborate on fun and innovative projects  
-📋 Take a look at my resume  
+🔭 I'm currently a telecommunication engineering student at INSA Lyon and web dev at EnVi Media  
+🌱 I'm learning C++  
+💗 I am Passionate with problem solving  
+👐 I would love to collaborate on fun and innovative projects  
+📋 Looking for an internship. Take a look at my resume  
+  
 🌍 Fun-Fact: Koalas have fingerprints  
 
 ### Technologies
